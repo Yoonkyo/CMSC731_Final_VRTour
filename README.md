@@ -2,7 +2,9 @@
 
 ## Vision-based 3D Reconstruction for Large-Scale Scenes Using 360 Cameras
 
-**Team Members**
+### Project Page: [Link](https://jdk9405.github.io/cmsc731_XR/)
+
+### Team Members
 
 - Dongki Jung
 - Heechan Yoon
